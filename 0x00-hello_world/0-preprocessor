@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc main.c -o combined
+gcc main.c -oE combined
