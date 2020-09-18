@@ -1,4 +1,4 @@
-#include<studio.h>
+#include<stdio.h>
 /**
 *main - Greeting the World
 *
@@ -6,6 +6,6 @@
 */
 int main(void)
 {
-puts("\"Programming is like building a multi level of languages")
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
