@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * main - check the Holberton School students
+ * reset_to_98 - Is going to replace the original value.
  *
  * Return: Always 0.
  */
